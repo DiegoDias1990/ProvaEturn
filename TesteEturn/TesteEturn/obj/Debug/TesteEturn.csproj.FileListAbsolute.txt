@@ -1,0 +1,12 @@
+c:\users\uz30131\documents\visual studio 2015\Projects\TesteEturn\TesteEturn\bin\Debug\TesteEturn.exe.config
+c:\users\uz30131\documents\visual studio 2015\Projects\TesteEturn\TesteEturn\bin\Debug\TesteEturn.exe
+c:\users\uz30131\documents\visual studio 2015\Projects\TesteEturn\TesteEturn\bin\Debug\TesteEturn.pdb
+c:\users\uz30131\documents\visual studio 2015\Projects\TesteEturn\TesteEturn\obj\Debug\TesteEturn.exe
+c:\users\uz30131\documents\visual studio 2015\Projects\TesteEturn\TesteEturn\obj\Debug\TesteEturn.pdb
+c:\users\uz30131\documents\visual studio 2015\Projects\TesteEturn\TesteEturn\obj\Debug\TesteEturn.csprojResolveAssemblyReference.cache
+F:\Eturn\TesteEturn\TesteEturn\bin\Debug\TesteEturn.exe.config
+F:\Eturn\TesteEturn\TesteEturn\bin\Debug\TesteEturn.exe
+F:\Eturn\TesteEturn\TesteEturn\bin\Debug\TesteEturn.pdb
+F:\Eturn\TesteEturn\TesteEturn\obj\Debug\TesteEturn.csproj.CoreCompileInputs.cache
+F:\Eturn\TesteEturn\TesteEturn\obj\Debug\TesteEturn.exe
+F:\Eturn\TesteEturn\TesteEturn\obj\Debug\TesteEturn.pdb
